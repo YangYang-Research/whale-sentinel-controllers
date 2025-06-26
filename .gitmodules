@@ -1,0 +1,3 @@
+[submodule "whale-sentinel-opensearch-dashboard"]
+	path = whale-sentinel-opensearch-dashboard
+	url = https://github.com/YangYang-Research/whale-sentinel-opensearch-dashboard.git
